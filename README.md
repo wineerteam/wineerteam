@@ -1,14 +1,14 @@
-💫 Hi 👋, I'm Sunil Kumar Yadav
+Hi, I'm Sunil Kumar Yadav
 A passionate B.Tech CSE Student || Mern-Stack Developer
 
-Email Me 👉 ✉️ sunilkumar62001197@gmail.com
+Email Me ✉️ sunilkumar62001197@gmail.com
 
-For Collaboration / Projects / Hackathons / Open Source 🚀
+For Collaboration / Projects / Hackathons / Open Source 
  
-🔭 I’m currently working on:Real Life Problems based Projects,
+I’m currently working on:Real Life Problems based Projects,
     Java GUI Projects & Mern Stack Web Applications
     
-🌱 I’m currently learning: Data Structures & Algorithms (Java)
+I’m currently learning: Data Structures & Algorithms (Java)
 
 
 ## 🌐 Socials:
