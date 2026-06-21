@@ -1,14 +1,12 @@
-Hi, I'm Sunil Kumar Yadav
-A passionate B.Tech CSE Student || Mern-Stack Developer
+overHi, 
+I'm Sunil Kumar Yadav
+A passionate B.Tech CSE Student || Mern-Stack Developer || CP
 
 Email Me ✉️ sunilkumar62001197@gmail.com
 
-For Collaboration / Projects / Hackathons / Open Source 
- 
-I’m currently working on:Real Life Problems based Projects,
-    Java GUI Projects & Mern Stack Web Applications
+For Collaboration / Projects / Hackathons / Open Source
     
-I’m currently learning: Data Structures & Algorithms (Java)
+I’m currently learning: Data Structures & Algorithms (Java, C++)
 
 
 ## 🌐 Socials:
