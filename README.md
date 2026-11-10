@@ -16,12 +16,12 @@
 
 </div>
 
-## 👨‍💻 About
+##  About
 
-- 🎓 Pre-final-year B.Tech CSE @ Galgotias University
-- 🚀 Building full-stack apps (MERN) and AI tools (Python)
-- 🏆 AWS ImpactX Finalist, IIT Bombay Techfest 2025
-- 🤝 Open to internships, collabs & hackathons
+-  Pre-final-year B.Tech CSE @ Galgotias University
+-  Building full-stack apps (MERN) and AI tools (Python)
+-  AWS ImpactX Finalist, IIT Bombay Techfest 2025
+-  Open to internships, collabs & hackathons
 
 ```js
 const sunil = {
@@ -32,11 +32,11 @@ const sunil = {
 };
 ```
 
-## 🔥 Projects
+##  Projects
 *(click karke khol)*
 
 <details open>
-<summary><b>🤖 SkyGPT</b> — AI chat platform</summary>
+<summary><b> SkyGPT</b> — AI chat platform</summary>
 <br/>
 
 Gemini API based chat with **JWT + OAuth 2.0** auth.
@@ -47,7 +47,7 @@ Gemini API based chat with **JWT + OAuth 2.0** auth.
 </details>
 
 <details>
-<summary><b>📄 AI ATS Resume Scorer</b> — resume vs JD matching</summary>
+<summary><b> AI ATS Resume Scorer</b> — resume vs JD matching</summary>
 <br/>
 
 Semantic matching with a downloadable **PDF report**.
@@ -58,7 +58,7 @@ Semantic matching with a downloadable **PDF report**.
 </details>
 
 <details>
-<summary><b>🎯 AttendX</b> — face + voice attendance <i>(in progress)</i></summary>
+<summary><b> AttendX</b> — face + voice attendance <i>(in progress)</i></summary>
 <br/>
 
 AI attendance system using face and voice recognition.
@@ -68,11 +68,11 @@ AI attendance system using face and voice recognition.
 
 </details>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,java,js,py,react,nodejs,express,mongodb,mysql,git,docker&perline=11" alt="Tech stack" />
 
-## 📊 Live Stats
+##  Live Stats
 
 <div align="center">
 
