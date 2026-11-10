@@ -10,7 +10,7 @@
 
 ## About
 
-I am a pre-final-year B.Tech Computer Science student at Galgotias University (CGPA 8.7/10). I build full-stack web applications with the MERN stack and AI-powered tools with Python. I am currently strengthening my Data Structures and Algorithms skills in Java and C++, and I practice competitive programming regularly.
+I am a pre-final-year B.Tech Computer Science student . I build full-stack web applications with the MERN stack and AI-powered tools with Python. I practice competitive programming regularly.
 
 I am open to internships, collaborations, projects, and hackathons.
 
@@ -33,9 +33,9 @@ I am open to internships, collaborations, projects, and hackathons.
 
 | Platform | Profile | Highlights |
 |:--|:--|:--|
-| Codeforces | [sunilemail10](https://codeforces.com/profile/sunilemail10) | Max rating 1222 (Pupil) |
 | LeetCode (contests) | [Sunil_11](https://leetcode.com/u/Qt2HsgLHgH/) | Max rating 1902 (Knight) | Weekly contests |
 | LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY/) | Practice |
+| Codeforces | [sunilemail10](https://codeforces.com/profile/sunilemail10) | Max rating 1222 (Pupil) |
 
 
 
