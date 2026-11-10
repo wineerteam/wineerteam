@@ -1,25 +1,63 @@
-Hi, 
+<div align="center">
 
-I'm Sunil Kumar Yadav
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Sunil+Kumar+Yadav;MERN+Stack+Developer;B.Tech+CSE+%7C+Galgotias+University;Competitive+Programmer+%7C+DSA+in+Java+%26+C%2B%2B" alt="Typing intro" />
 
-A passionate B.Tech CSE Student || Mern-Stack Developer || CP
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilemail10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-sky123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sunil-portfolio-2026.vercel.app/)
 
-Email Me ✉️ sunilkumar62001197@gmail.com
+</div>
 
-For Collaboration / Projects / Hackathons / Open Source
-    
-I’m currently learning: Data Structures & Algorithms (Java, C++)
+## About
 
+I am a pre-final-year B.Tech Computer Science student at Galgotias University (CGPA 8.7/10). I build full-stack web applications with the MERN stack and AI-powered tools with Python. I am currently strengthening my Data Structures and Algorithms skills in Java and C++, and I practice competitive programming regularly.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sunil_Kumar_Yadav.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-sky123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilkumar62001197@gmail.com) 
+I am open to internships, collaborations, projects, and hackathons.
 
+## Featured Projects
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Project | What it does | Tech | Links |
+|:--|:--|:--|:--|
+| **SkyGPT** | AI chat platform using the Gemini API, with JWT and OAuth 2.0 authentication | React, Node.js, Express, MongoDB | [Live](https://u-sky-gpt.vercel.app/login) · [Repo](https://github.com/wineerteam/skygpt) |
+| **AI ATS Resume Scorer** | Scores resumes against job descriptions with semantic matching and generates PDF reports | Python, FastAPI, Streamlit, Docker | [Live](https://ai-resume-ats-scorer-pw3ws5usjnha5pdz9uyswx.streamlit.app/) · [Repo](https://github.com/wineerteam/AI-Resume-Ats-Scorer) |
+| **AttendX** (ongoing) | AI attendance system using face and voice recognition | Python, Streamlit, OpenCV, Supabase | [Demo](https://tinyurl.com/aisky11) |
 
-<!-- Snake Game Repo View -->
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
+## Tech Stack
 
+**Languages:** C++, JavaScript, Python, Java
+**Frontend:** React.js, HTML, CSS
+**Backend and Databases:** Node.js, Express, REST APIs, MongoDB, MySQL
+**Tools:** Git, GitHub, Docker
+
+## Competitive Programming
+
+| Platform | Profile | Highlights |
+|:--|:--|:--|
+| Codeforces | [sunilemail10](https://codeforces.com/profile/sunilemail10) | Max rating 1222 (Pupil) |
+| GeeksforGeeks | [sunilkumarw4oq](https://www.geeksforgeeks.org/profile/sunilkumarw4oq) | Practice |
+| LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY) | Practice |
+| LeetCode (contests) | [Sunil_11](https://leetcode.com/u/Sunil_11) | Max rating 1902 (Knight) | Weekly contests |
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wineerteam&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wineerteam&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## Achievements
+
+- AWS ImpactX Challenge Finalist, IIT Bombay Techfest 2025
+- GeeksforGeeks DSA Challenge Finalist
+
+## Certifications
+
+- AWS: Foundations of Prompt Engineering
+- Infosys Springboard: Java, DBMS, SQL
+
+## Contact
+
+- Email: sunilkumar62001197@gmail.com
+- LinkedIn: [linkedin.com/in/sunil-kumar-sky123](https://linkedin.com/in/sunil-kumar-sky123)
