@@ -24,7 +24,7 @@ I am open to internships, collaborations, projects, and hackathons.
 
 ## Tech Stack
 
-**Languages:** C++, JavaScript, Python, Java
+**Languages:** C++, JavaScript, Python, Java 
 **Frontend:** React.js, HTML, CSS
 **Backend and Databases:** Node.js, Express, REST APIs, MongoDB, MySQL
 **Tools:** Git, GitHub, Docker
@@ -34,8 +34,8 @@ I am open to internships, collaborations, projects, and hackathons.
 | Platform | Profile | Highlights |
 |:--|:--|:--|
 | Codeforces | [sunilemail10](https://codeforces.com/profile/sunilemail10) | Max rating 1222 (Pupil) |
-| LeetCode (contests) | [Sunil_11](https://leetcode.com/u/Sunil_11) | Max rating 1902 (Knight) | Weekly contests |
-| LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY) | Practice |
+| LeetCode (contests) | [Sunil_11](https://leetcode.com/u/Qt2HsgLHgH/) | Max rating 1902 (Knight) | Weekly contests |
+| LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY/) | Practice |
 
 
 
