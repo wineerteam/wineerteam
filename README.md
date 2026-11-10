@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Sunil+Kumar+Yadav;MERN+Stack+Developer;B.Tech+CSE+%7C+Galgotias+University;Competitive+Programmer+%7C+DSA+in+Java+%26+C%2B%2B" alt="Typing intro" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilemail10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-sky123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilkumar62001197@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-sky123/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sunil-portfolio-2026.vercel.app/)
 
 </div>
@@ -34,9 +34,9 @@ I am open to internships, collaborations, projects, and hackathons.
 | Platform | Profile | Highlights |
 |:--|:--|:--|
 | Codeforces | [sunilemail10](https://codeforces.com/profile/sunilemail10) | Max rating 1222 (Pupil) |
-| GeeksforGeeks | [sunilkumarw4oq](https://www.geeksforgeeks.org/profile/sunilkumarw4oq) | Practice |
-| LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY) | Practice |
 | LeetCode (contests) | [Sunil_11](https://leetcode.com/u/Sunil_11) | Max rating 1902 (Knight) | Weekly contests |
+| LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY) | Practice |
+
 
 
 ## Achievements
