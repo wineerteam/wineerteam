@@ -38,14 +38,6 @@ I am open to internships, collaborations, projects, and hackathons.
 | LeetCode (practice) | [CodeHunter_SKY](https://leetcode.com/u/CodeHunter_SKY) | Practice |
 | LeetCode (contests) | [Sunil_11](https://leetcode.com/u/Sunil_11) | Max rating 1902 (Knight) | Weekly contests |
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wineerteam&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wineerteam&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## Achievements
 
