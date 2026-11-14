@@ -57,16 +57,7 @@ Semantic matching with a downloadable **PDF report**.
 
 </details>
 
-<details>
-<summary><b> AttendX</b> — face + voice attendance <i>(in progress)</i></summary>
-<br/>
 
-AI attendance system using face and voice recognition.
-`Python` `Streamlit` `OpenCV` `Supabase`
-
-[🔗 Demo](https://tinyurl.com/aisky11)
-
-</details>
 
 ##  Tech Stack
 
