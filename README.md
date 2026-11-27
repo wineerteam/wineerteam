@@ -84,25 +84,6 @@ Semantic matching with a downloadable **PDF report**.
 
 </div>
 
-## 💬 Random Dev Vibes
-*(page refresh kar, har baar naya aayega)*
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="70%" />
-
-</div>
-
-<details>
-<summary><b>🐍 Contribution Snake (bonus)</b></summary>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wineerteam/wineerteam/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/wineerteam/wineerteam/output/github-snake.svg" width="100%" />
-</picture>
 
 </details>
 
